@@ -1,1 +1,1 @@
-# Caleb the Webstronomer SoloLearn Challenges
+# Caleb the Webstronomer SoloLearn Python Challenges
